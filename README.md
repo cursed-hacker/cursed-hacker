@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![HitCount](https://hits.dwyl.com/cursed-hacker/cursed-hacker/cursed-hacker.svg?style=flat-square)](http://hits.dwyl.com/cursed-hacker/cursed-hacker/cursed-hacker)
+
+
 <!--
 **cursed-hacker/cursed-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
