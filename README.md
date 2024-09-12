@@ -7,5 +7,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+-------------------------
 
 [![Hits](https://hits.sh/github.com/cursed-hacker/cursed-hacker.svg?style=plastic&label=Profile%20Visits&color=55ff14&logo=hotjar)](https://hits.sh/github.com/cursed-hacker/cursed-hacker/)
