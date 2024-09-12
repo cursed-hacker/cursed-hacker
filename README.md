@@ -5,6 +5,6 @@
 
 -------------------------
 
-![](https://komarev.com/ghpvc/?username=cursed-hacker&style=for-the-badge&base=500)
+![](https://komarev.com/ghpvc/?username=cursed-hacker&style=for-the-badge&base=500&color=yellow)
 
 <!--[![Hits](https://hits.sh/github.com/cursed-hacker/cursed-hacker.svg?style=plastic&label=Profile%20Visits&color=55ff14&logo=hotjar)](https://hits.sh/github.com/cursed-hacker/cursed-hacker/)
